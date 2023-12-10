@@ -1,7 +1,20 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello world.</h1>
-<p>Welcome to my page! </br> I'm Cường, Mobile developer and Designer from <img src="https://cdn-icons-png.flaticon.com/128/555/555515.png" width="13"/><b> Nam Định,Việt Nam</b>, currently living in <b>Hà Nội, Việt Nam</b>. </p>
-<h3>Things I code with</h3>
-<div align="Left">
+<p><b>Welcome to my page!</b></br>
+<img src="https://cdn-icons-png.flaticon.com/128/3073/3073461.png" width="25"> I'm Cường, Mobile app research at <b>Google Developer Student Club</b> <img src="https://th.bing.com/th?id=OIP.CR3CrcFqoQ6O7u2A_xQ8NAHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="20"> (Dart & Flutter) and Designer.</br>
+<img src="https://cdn-icons-png.flaticon.com/128/2231/2231696.png" width="25"> I'm currently study at <b>Hanoi University of Science and Technology</b> <img src="https://th.bing.com/th?id=OIP.rYZpZ3jT1p7WX1ZJOY0Q8AHaLG&w=204&h=306&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="15">.</br>
+<img src="https://cdn-icons-png.flaticon.com/128/5625/5625842.png" width="25"> Fun fact: " Lập trình cũng là một hình dạng của tình yêu ".</br>
+</p>
+<h2><img src="https://cdn-icons-png.flaticon.com/128/693/693874.png" width ="30"> How to contact me:</h2>
+<div align="Center">
+	<table>
+		<td><a href="https://www.facebook.com/profile.php?id=100017265070641" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" width="50" height="50" alt="Facebook" tittle="Facebook" ></a></td>
+		<td><a href="https://www.instagram.com/c_e_g3112/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" width="50" height="50" alt="Instagram" tittle="Instagram" ></a></td>
+		<td><a href="https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-%C4%91%E1%BB%97-a12937255/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="50" height="50" alt="LinkedLn" tittle="LinkedLn" ></a></td>
+		<td><a href="https://www.figma.com/files/team/1304851959857094497/C%C6%B0%E1%BB%9Dng-%C4%90%E1%BB%97's-team?fuid=1275769873775060899" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" width="50" height="50" alt="Figma" tittle="Figma" ></a></td>
+	</table>
+</div>
+<h2><img src="https://cdn-icons-png.flaticon.com/128/428/428001.png" width ="30"> Things I code with:</h2>
+<div align="Center">
 	<table>
 		<tr>
 			<td><a><img width="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/></a></td>
