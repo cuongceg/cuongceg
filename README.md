@@ -2,7 +2,7 @@
 <p><b>Welcome to my page!</b></br>
 <img src="https://cdn-icons-png.flaticon.com/128/3073/3073461.png" width="25"> I'm Cường, Mobile app research at <b>Google Developer Student Club</b> <img src="https://th.bing.com/th?id=OIP.CR3CrcFqoQ6O7u2A_xQ8NAHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="20"> (Dart & Flutter) and Designer.</br>
 <img src="https://cdn-icons-png.flaticon.com/128/2231/2231696.png" width="25"> I'm currently study at <b>Hanoi University of Science and Technology</b> <img src="https://th.bing.com/th?id=OIP.rYZpZ3jT1p7WX1ZJOY0Q8AHaLG&w=204&h=306&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="15">.</br>
-<img src="https://cdn-icons-png.flaticon.com/128/5625/5625842.png" width="25"> Fun fact: " Lập trình cũng là một hình dạng của tình yêu ".</br>
+<img src="https://cdn-icons-png.flaticon.com/128/5625/5625842.png" width="25"> Fun fact: " There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self. ".</br>
 </p>
 <h2><img src="https://cdn-icons-png.flaticon.com/128/693/693874.png" width ="30"> How to contact me:</h2>
 <div align="Center">
